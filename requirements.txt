@@ -1,4 +1,5 @@
 torch>=2.0
 matplotlib>=3.7
-# Optional, only needed for the Gemini Flash comparison in evaluation/benchmark_qualitative.py
+numpy>=1.24
+pandas>=2.0
 google-generativeai>=0.5

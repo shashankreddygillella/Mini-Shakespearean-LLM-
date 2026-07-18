@@ -1,0 +1,19 @@
+UPLOAD INSTRUCTIONS
+
+1. Download and extract this ZIP file.
+2. Go to the GitHub repo main page.
+3. Click Add file -> Upload files.
+4. Drag these extracted files/folders into GitHub.
+5. If GitHub asks to replace existing files, replace:
+   - README.md
+   - requirements.txt
+6. Upload the docs/ and evaluation/ files too.
+7. Commit with message:
+   Add final README, docs, and evaluation results
+
+Important:
+Do NOT upload only the ZIP file to GitHub. Extract it first.
+Also, upload your handwritten architecture mapping separately as:
+docs/architecture_mapping_handwritten.jpg
+or
+docs/architecture_mapping_handwritten.pdf
